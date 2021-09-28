@@ -1,0 +1,20 @@
+#Week 2 Python HLT 2
+#Multiplication (the 4 times Table)
+
+print ("Here is the 4 x table from 0-40")
+print()
+num=1
+for loopCounter in range (4,44,4):
+  print (num, "x 4 =", loopCounter)
+  num=num+1
+
+#Week 2 Python HLT 2
+#Multiplication (the 5 times Table)
+print()
+print ("Here is the 5 x table from 0-50")
+
+num=1
+print()
+for loopCounter in range (5,55,5):
+  print (num, "x 5 =", loopCounter)
+  num=num+1
